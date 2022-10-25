@@ -1,0 +1,10 @@
+.header{
+    margin: 20px auto;
+    max-width: 970px;
+    padding: 0;
+    background: linear-gradient(45deg, #1F665E, #6C447E);
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
