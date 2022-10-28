@@ -1,6 +1,12 @@
-.board{
-    max-width: 470px;
-    background-color: #FFF;
+.board {
+    margin: 0 0;
+    padding: 0;
+    
+    background-color: rgb(255, 255, 255);
     border-radius: 20px;
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
 }

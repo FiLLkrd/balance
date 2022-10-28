@@ -1,0 +1,10 @@
+.content{
+    display: grid;
+    margin: auto;
+    max-width: 970px;
+    gap: 10px;
+   
+    grid-template-areas: "dashboard__small dashboard__small dashboard__large dashboard__large"
+                         "dashboard__middle dashboard__middle dashboard__large dashboard__large"
+                         "dashboard__middle dashboard__middle dashboard__large dashboard__large";
+}
